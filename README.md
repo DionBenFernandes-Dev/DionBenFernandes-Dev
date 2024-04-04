@@ -68,10 +68,11 @@ Communication, Problem-Solving, Teamwork, Time Management, Adaptability, Creativ
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DionBenFernandes-Dev)
 - [![Fiverr](https://img.shields.io/badge/Fiverr-%23B0DB43.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/dionbfdev)
 - [![Upwork](https://img.shields.io/badge/Upwork-%2323077B5.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e9ef451892c34307?mp_source=share)
-
-
 ---
-
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=DionBenFernandes-Dev&theme=blue-green)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DionBenFernandes-Dev&theme=blue-green)
+---
 <!--
 **DionBenFernandes-Dev/DionBenFernandes-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
