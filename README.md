@@ -64,11 +64,10 @@ Communication, Problem-Solving, Teamwork, Time Management, Adaptability, Creativ
 - 2023-24 Tableau Certified Data Analyst Training - Udemy (Ongoing)
 
 ## 🌐 Profiles
-## 🌐 Profiles
-- [LinkedIn](https://www.linkedin.com/in/dion-ben-fernandes/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
-- [GitHub](https://github.com/DionBenFernandes-Dev) ![GitHub](https://img.shields.io/badge/-GitHub-black)
-- [Fiverr](https://www.fiverr.com/dionbfdev) ![Fiverr](https://img.shields.io/badge/-Fiverr-green)
-- [Upwork](https://www.upwork.com/freelancers/~01e9ef451892c34307?mp_source=share) ![Upwork](https://img.shields.io/badge/-Upwork-yellow)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dion-ben-fernandes)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DionBenFernandes-Dev)
+- [![Fiverr](https://img.shields.io/badge/Fiverr-%23B0DB43.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/dionbfdev)
+- [![Upwork](https://img.shields.io/badge/Upwork-%2323077B5.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e9ef451892c34307?mp_source=share)
 
 
 ---
