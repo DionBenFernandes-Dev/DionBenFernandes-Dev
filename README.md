@@ -3,7 +3,7 @@
 ## 👨‍💻 Introduction
 Experienced Python Developer and Data Analyst with a passion for leveraging technology to drive insights and innovation. Skilled in various programming languages, web development, database management, and AI/ML. Committed to delivering high-quality solutions and fostering collaborative relationships.
 
-![Dion Ben Fernandes](https://your-image-url-here)
+<!--![Dion Ben Fernandes](https://your-image-url-here)-->
 
 **Personal Information:**
 - 📅 Date of Birth: 1st April 2000
